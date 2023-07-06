@@ -1,4 +1,4 @@
-export  let country_list = {
+let country_list = {
     "AED" : "AE",
     "AFN" : "AF",
     "XCD" : "AG",
